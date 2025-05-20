@@ -1,0 +1,18 @@
+Test sum:
+  -RANDOM      Rel. Error: 0.0000e+00, #Inputs: 541780, time: 02:00:00
+Test 1norm:
+  -RANDOM      Rel. Error: 0.0000e+00, #Inputs: 527445, time: 02:00:00
+Test 2norm:
+  -RANDOM      Rel. Error: 3.1216e-16, #Inputs: 459754, time: 02:00:00
+Test dot:
+  -RANDOM      Rel. Error: 1.7010e-12, #Inputs: 273161, time: 02:00:00
+Test conv:
+  -RANDOM      Rel. Error: 1.5982e-13, #Inputs: 110429, time: 02:00:00
+Test mv:
+  -RANDOM      Rel. Error: 0.0000e+00, #Inputs: 1018068, time: 02:00:00
+Test mm:
+  -RANDOM      Rel. Error: 1.1102e-16, #Inputs: 1446087, time: 02:00:00
+Test lu:
+  -RANDOM      Rel. Error: 0.0000e+00, #Inputs: 1379781, time: 02:00:00
+Test qr:
+  -RANDOM      Rel. Error: 0.0000e+00, #Inputs: 1184682, time: 02:00:00

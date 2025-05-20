@@ -1,0 +1,26 @@
+Test recursive-summation:
+  -FPGen   Rel. Error: 1.0000e+00, #Inputs: 1658, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 6.9195e-16, #Inputs: 1623, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 4.0559e-16, #Inputs: 1577, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 3.2221e-16, #Inputs: 1611, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 3.2341e-16, #Inputs: 1607, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 5.6987e-16, #Inputs: 1619, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 2.9451e-16, #Inputs: 1611, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 9.0481e-16, #Inputs: 1596, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 7.1517e-16, #Inputs: 1602, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 1.0000e+00, #Inputs: 1542, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 1.0000e+00, #Inputs: 1632, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 9.9135e-16, #Inputs: 1592, time: 00:10:00
+Test recursive-summation:
+  -FPGen   Rel. Error: 9.2463e-16, #Inputs: 1548, time: 00:10:00

@@ -1,0 +1,6 @@
+Test recursive-summation:
+  -RANDOM      Rel. Error: 0, #Inputs: 557893, time: 02:00:00
+Test pairwise-summation:
+  -RANDOM      Rel. Error: 0, #Inputs: 48586, time: 02:00:00
+Test compensated-summation:
+  -RANDOM      Rel. Error: 0, #Inputs: 576832, time: 02:00:00
